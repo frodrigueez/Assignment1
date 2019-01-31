@@ -1,1 +1,5 @@
+wc-dhcp55d052:Assignment1 fernandarodriguez$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
 
+nothing to commit, working tree clean

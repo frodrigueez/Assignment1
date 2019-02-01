@@ -1,0 +1,45 @@
+(a)
+wc-dhcp55d052:docs fernandarodriguez$ git push
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 458 bytes | 458.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/frodrigueez/Assignment1.git
+   bd694a4..1e6f0c9  master -> master
+
+(b) git shortlog; 5
+
+
+(c) 1/10 16:45
+git whatchanged 
+
+(d) two reasons branches are used in a Git repository 
+are because they are lightweight and allow you to do 
+work without messing with the master branch. 
+
+(e) git log shows the commit log 
+    git status shows the working tree status  
+
+(f) git whatchanged Weapons.h
+
+(g) git log --all --grep='file'
+
+(h) in the context of object-oriented programming...
+	inheritance is: basing an object on another object w/ similar implementation
+	polymorphism is: when you can treat an object as a generic verion of it.  
+	and encapsulation is the idea of grouping together data and functions that work on
+	the data within one unit.
+
+(i) the main difference between the "dictator and lieutenants" workflow and the "integration
+management" workflow is  that in the integration manager, one one person handles conflict
+resolution and in the D and L workflow, it is better allocated because developers must have
+their repositories integrated by a lieutenant, then those lieutenants then have those repos-
+itories integrated by the dictator. 
+
+(j) a team of 100 developers would benefit more followitng the "dictator and lieutenants"
+workflow instead of the "centralized" workflow because integrating the code of 100 developers
+alone would be way too much code to cater to alone.
+
+ 

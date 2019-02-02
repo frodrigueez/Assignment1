@@ -18,6 +18,11 @@ public:
 	BearClaw();
 	virtual ~BearClaw() {};
 	virtual double hit(double armor);
+	int getIntensity();
+	int getEnergy();
+private:
+	int intensity; 
+	int energy;
 };
 
 #endif /* BEARCLAW_H */

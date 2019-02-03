@@ -42,4 +42,7 @@ itories integrated by the dictator.
 workflow instead of the "centralized" workflow because integrating the code of 100 developers
 alone would be way too much code to cater to alone.
 
- 
+PART 5)
+	The RoleGame prototype uses both polymorphism and encapsulation. It uses the former
+when creating new weapons as they're based off the parent class Weapons. It uses the latter 
+when using the WeaponFactory class to generate the weapons, etc.  
